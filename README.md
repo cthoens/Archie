@@ -1,10 +1,13 @@
 # Archie
-Unity-based 3D jump-and-run puzzle game. The player character Archie jumps automatically when running towards an edge fast enough. The faster he runs the further he jumps. He has to escape by finding a path to the exit.
+Unity-based 3D jump-and-run puzzle game. Try it out [right here in your desktop browser](https://cthoens.github.io/Archie/)!
+
+The player character Archie jumps automatically when running towards an edge fast enough. The faster he runs the further he jumps. He has to escape by finding a path to the exit.
 
 # Features and gameplay elements
 - Two levels currently implemented (press Escape any time to jump to a level)
 - Text popup based tutorial in the first level
-- Buttons that open laser gates and active light bridges
+- Buttons open laser gates and active light bridges
+- Camera flies to show where laser gates are opening and light bridges are appearing
 - Deadly moving lazer beams
 - Elevators
 
